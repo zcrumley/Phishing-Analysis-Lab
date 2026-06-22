@@ -103,19 +103,6 @@ This type of hidden or unusual text may indicate spam-filter evasion or content 
 
 ---
 
-##  Phishing Indicators
-
-```text
-IseDdHeo@xyopihtnn.us
-xyopihtnn.us
-cdcfa.com
-storage.googleapis.com
-Claim Your Free Kobalt Tool Set
-Lowe's-Rewards
-START NEGATIVE
-```
-
----
 
 ## Verdict
 
@@ -143,3 +130,5 @@ In a real SOC environment, the recommended actions would be:
 ## Conclusion
 
 This lab demonstrated a basic phishing investigation workflow. By reviewing the sender, authentication results, domains, message content, and social engineering indicators, the email was determined to be a phishing attempt impersonating Lowe's Rewards.
+
+I will unfortunately not be recieving a free Kobalt Tool set. 
