@@ -43,7 +43,7 @@ Determine whether the email was legitimate, spam, or phishing by reviewing:
 
 ## Screenshot
 
-![Cloud Storage Phishing Email Screenshot](screenshots/phishing-lab-2-cloud-storage-email.png)
+![Cloud Storage Phishing Email Screenshot](../screenshots/cloud.png)
 
 ---
 
