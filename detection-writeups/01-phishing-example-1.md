@@ -40,7 +40,7 @@ Determine whether the email was legitimate, spam, or phishing by reviewing:
 
 ## Screenshot
 
-![Lowe's Phishing Email Screenshot](screenshots/lowes.png)
+![Lowe's Phishing Email Screenshot](../screenshots/lowes.png)
 
 ---
 
