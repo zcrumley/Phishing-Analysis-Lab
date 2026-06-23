@@ -43,7 +43,7 @@ Determine whether the reported email was phishing or a false positive by reviewi
 
 ## Screenshot
 
-![False Positive Email Screenshot](screenshots/run.png)
+![False Positive Email Screenshot](../screenshots/run.png)
 
 ---
 
